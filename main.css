@@ -13,11 +13,17 @@ body {
 
 a:link {
 	text-decoration:none;
-	color:aliceblue;
+	color:white;
 }
 a:visited {
 	text-decoration:none;
-	color:aliceblue;
+	color:white;
+}
+a:hover {
+	background-color:#FFECE0;
+}
+a:active {
+	color: yellow;
 }
 #icon3 {
 	float:right;
