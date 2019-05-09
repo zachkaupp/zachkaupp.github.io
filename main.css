@@ -1,0 +1,117 @@
+body {
+  background-color: #FFECE0;
+	padding:0px;
+	margin:0px;
+ }
+p {
+	text-indent: 2vw;
+}
+
+/* LINK PROPERTIES */
+a:link {
+	text-decoration:none;
+	color:white;
+}
+a:visited {
+	text-decoration:none;
+	color:white;
+}
+a:active {
+	color: white;
+}
+
+/* NAVIGATION BAR //////////////////////////// */
+.navigation-bar {
+	background-color: #D97F48;
+	margin:0px;
+	padding:3px;
+	height: 10vh;
+}
+#profileHomeLink {
+	margin:none;
+	padding:none;
+	font-size:10vh;
+}
+#icon3 {
+	float:right;
+	background: #D97F48;
+	border: 1px solid aliceblue;
+	border-right:none;
+	border-top:none;
+	border-bottom:none;
+	height:10vh;
+	padding-left:5px;
+	padding-right:5px;
+	font-size: 3vh;
+}
+a:hover#icon3 {
+	background-color:#FFECE0;
+	color:#B75D25;
+}
+#icon2 {
+	float:right;
+	background: #D97F48;
+	border: 1px solid aliceblue;
+	border-right:none;
+	border-top:none;
+	border-bottom:none;
+	height:10vh;
+	padding-left:5px;
+	padding-right:5px;
+	font-size: 3vh;
+}
+a:hover#icon2 {
+	background-color:#FFECE0;
+	color:#B75D25;
+}
+#icon1 {
+	float:right;
+	background: #D97F48;
+	border: 1px solid aliceblue;
+	border-right:none;
+	border-top:none;
+	border-bottom:none;
+	padding-left:5px;
+	padding-right:5px;
+	height:10vh;
+	font-size: 3vh;
+}
+a:hover#icon1 {
+	background-color:#FFECE0;
+	color:#B75D25;
+}
+#icon4 {
+	float:right;
+	background: #D97F48;
+	border: 1px solid aliceblue;
+	border-right:none;
+	border-top:none;
+	border-bottom:none;
+	height:10vh;
+	padding-left:5px;
+	padding-right:5px;
+	font-size: 3vh;
+}
+a:hover#icon4 {
+	background-color:#FFECE0;
+	color:#B75D25;
+}
+/* GENERAL TEXT CLASSES */
+.nonBoldText {
+	font-weight: normal;
+}
+/* MAIN PAGE TEXT */
+#homePageMainText {
+	max-width: 50vw;
+}
+/* EXTRA NOTES TEXT */
+#houckMessage {
+	text-align:center;
+}
+#houckMessage2 {
+	text-align:center;
+}
+/*  MY HOBBIES TEXT */
+#hobbiesList {
+	font-size:20px;
+}
